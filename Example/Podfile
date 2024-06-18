@@ -1,0 +1,4 @@
+
+target :ExpandTableView do
+    pod 'ZGExpandableTable', :path => '../ZGExpandableTable.podspec'
+end
