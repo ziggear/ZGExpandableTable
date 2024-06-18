@@ -32,7 +32,7 @@ UITableView *tableView = tableController.tableView;
 ZGExpandableTable has been made into a pod. To use it, please add the following to your Podfile:
 
 ```ruby
-pod 'ZGExpandableTable'
+pod 'ZGExpandableTable', :git => 'https://github.com/ziggear/ZGExpandableTable.git'
 ```
 
 Then run:
@@ -63,10 +63,3 @@ We welcome contributions to ZGExpandableTable! Here are some ways you can contri
 
 ZGExpandableTable is available under the MIT license. See the LICENSE file for more info.
 
-## Contact
-
-For questions or suggestions, please contact the ziggear@gmail.com or create an issue on GitHub.
-
----
-
-Thank you for using ZGExpandableTable! We hope it makes viewing JSON files on iOS a breeze.
