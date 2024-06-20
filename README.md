@@ -1,8 +1,8 @@
 # ZGExpandableTable
 
-![Demo](Example/demo.gif)
-
 ZGExpandableTable is an iOS component designed to facilitate viewing JSON files on mobile devices. JSON files are often lengthy and hierarchical, making them challenging to view and navigate on a small screen. This component provides an expandable table view that allows users to view JSON content in a convenient, layer-by-layer manner.
+
+![Demo](Example/demo.gif)
 
 ## Features
 
