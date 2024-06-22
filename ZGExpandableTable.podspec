@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
                    DESC
   s.license      = "MIT"
   s.platform     = :ios, "12.0"
-  s.source       = { :git => "https://github.com/ziggear/ZGExpandableTable.git", :tag => '1.0.0' }
+  s.source       = { :git => "https://github.com/ziggear/ZGExpandableTable.git", :tag => '1.0.1' }
   s.source_files  = "ZGExpandableTable/*.{h,m}"
   s.public_header_files = "ZGExpandableTable/*.h"
 end
